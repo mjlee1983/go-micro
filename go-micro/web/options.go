@@ -6,9 +6,10 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/micro/cli/v2"
-	"github.com/micro/go-micro/v2"
-	"github.com/micro/go-micro/v2/registry"
+	"mjlee1983/go-micro/cli/v2"
+
+	"github.com/mjlee1983/go-micro/go-micro/v2"
+	"github.com/mjlee1983/go-micro/go-micro/v2/registry"
 )
 
 //Options for web

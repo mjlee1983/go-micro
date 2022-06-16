@@ -3,7 +3,7 @@ package nats
 import (
 	"context"
 
-	"github.com/micro/go-micro/v2/broker"
+	"github.com/mjlee1983/go-micro/go-micro/v2/broker"
 )
 
 // setBrokerOption returns a function to setup a context with given value

@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/micro/go-micro/v2/client/selector"
-	"github.com/micro/go-micro/v2/errors"
-	"github.com/micro/go-micro/v2/registry"
-	"github.com/micro/go-micro/v2/registry/memory"
+	"github.com/mjlee1983/go-micro/go-micro/v2/client/selector"
+	"github.com/mjlee1983/go-micro/go-micro/v2/errors"
+	"github.com/mjlee1983/go-micro/go-micro/v2/registry"
+	"github.com/mjlee1983/go-micro/go-micro/v2/registry/memory"
 )
 
 func newTestRegistry() registry.Registry {

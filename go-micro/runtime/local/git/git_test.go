@@ -14,31 +14,31 @@ func TestParseSource(t *testing.T) {
 		{
 			source: "helloworld",
 			expected: &Source{
-				Repo:   "github.com/micro/services",
+				Repo:   "github.com/mjlee1983/go-micro/go-micro/services",
 				Folder: "helloworld",
 				Ref:    "latest",
 			},
 		},
 		{
-			source: "github.com/micro/services/helloworld",
+			source: "github.com/mjlee1983/go-micro/go-micro/services/helloworld",
 			expected: &Source{
-				Repo:   "github.com/micro/services",
+				Repo:   "github.com/mjlee1983/go-micro/go-micro/services",
 				Folder: "helloworld",
 				Ref:    "latest",
 			},
 		},
 		{
-			source: "github.com/micro/services/helloworld@v1.12.1",
+			source: "github.com/mjlee1983/go-micro/go-micro/services/helloworld@v1.12.1",
 			expected: &Source{
-				Repo:   "github.com/micro/services",
+				Repo:   "github.com/mjlee1983/go-micro/go-micro/services",
 				Folder: "helloworld",
 				Ref:    "v1.12.1",
 			},
 		},
 		{
-			source: "github.com/micro/services/helloworld@branchname",
+			source: "github.com/mjlee1983/go-micro/go-micro/services/helloworld@branchname",
 			expected: &Source{
-				Repo:   "github.com/micro/services",
+				Repo:   "github.com/mjlee1983/go-micro/go-micro/services",
 				Folder: "helloworld",
 				Ref:    "branchname",
 			},

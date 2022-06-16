@@ -3,7 +3,7 @@ package service
 import (
 	"context"
 
-	"github.com/micro/go-micro/v2/config/source"
+	"github.com/mjlee1983/go-micro/go-micro/v2/config/source"
 )
 
 type serviceNameKey struct{}

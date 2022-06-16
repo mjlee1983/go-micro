@@ -7,9 +7,10 @@ import (
 	"errors"
 	"strings"
 
+	"mjlee1983/go-micro/cli/v2"
+
 	"github.com/bwmarrin/discordgo"
-	"github.com/micro/cli/v2"
-	"github.com/micro/go-micro/v2/agent/input"
+	"github.com/mjlee1983/go-micro/go-micro/v2/agent/input"
 )
 
 func init() {

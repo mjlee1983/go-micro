@@ -4,8 +4,8 @@ package cache
 import (
 	"fmt"
 
-	"github.com/micro/go-micro/v2/store"
-	"github.com/micro/go-micro/v2/store/memory"
+	"github.com/mjlee1983/go-micro/go-micro/v2/store"
+	"github.com/mjlee1983/go-micro/go-micro/v2/store/memory"
 	"github.com/pkg/errors"
 )
 

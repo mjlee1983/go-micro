@@ -7,10 +7,11 @@ import (
 	"strings"
 	"time"
 
+	"mjlee1983/go-micro/cli/v2"
+
 	"github.com/imdario/mergo"
-	"github.com/micro/cli/v2"
-	"github.com/micro/go-micro/v2/config/cmd"
-	"github.com/micro/go-micro/v2/config/source"
+	"github.com/mjlee1983/go-micro/go-micro/v2/config/cmd"
+	"github.com/mjlee1983/go-micro/go-micro/v2/config/source"
 )
 
 type cliSource struct {

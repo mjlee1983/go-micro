@@ -3,8 +3,8 @@ package service
 import (
 	"time"
 
-	"github.com/micro/go-micro/v2/config/source"
-	proto "github.com/micro/go-micro/v2/config/source/service/proto"
+	"github.com/mjlee1983/go-micro/go-micro/v2/config/source"
+	proto "github.com/mjlee1983/go-micro/go-micro/v2/config/source/service/proto"
 )
 
 func toChangeSet(c *proto.ChangeSet) *source.ChangeSet {

@@ -18,13 +18,13 @@ import (
 	"time"
 
 	"github.com/google/uuid"
-	"github.com/micro/go-micro/v2/codec/json"
-	merr "github.com/micro/go-micro/v2/errors"
-	"github.com/micro/go-micro/v2/registry"
-	"github.com/micro/go-micro/v2/registry/cache"
-	maddr "github.com/micro/go-micro/v2/util/addr"
-	mnet "github.com/micro/go-micro/v2/util/net"
-	mls "github.com/micro/go-micro/v2/util/tls"
+	"github.com/mjlee1983/go-micro/go-micro/v2/codec/json"
+	merr "github.com/mjlee1983/go-micro/go-micro/v2/errors"
+	"github.com/mjlee1983/go-micro/go-micro/v2/registry"
+	"github.com/mjlee1983/go-micro/go-micro/v2/registry/cache"
+	maddr "github.com/mjlee1983/go-micro/go-micro/v2/util/addr"
+	mnet "github.com/mjlee1983/go-micro/go-micro/v2/util/net"
+	mls "github.com/mjlee1983/go-micro/go-micro/v2/util/tls"
 	"golang.org/x/net/http2"
 )
 

@@ -1,4 +1,4 @@
-# Config [![GoDoc](https://godoc.org/github.com/micro/go-micro/config?status.svg)](https://godoc.org/github.com/micro/go-micro/config)
+# Config [![GoDoc](https://godoc.org/github.com/mjlee1983/go-micro/go-micro/config?status.svg)](https://godoc.org/github.com/mjlee1983/go-micro/go-micro/config)
 
 Config is a pluggable dynamic config package
 

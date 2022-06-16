@@ -6,9 +6,9 @@ import (
 	"time"
 
 	"github.com/google/uuid"
-	"github.com/micro/go-micro/v2/auth"
-	"github.com/micro/go-micro/v2/auth/token"
-	"github.com/micro/go-micro/v2/store"
+	"github.com/mjlee1983/go-micro/go-micro/v2/auth"
+	"github.com/mjlee1983/go-micro/go-micro/v2/auth/token"
+	"github.com/mjlee1983/go-micro/go-micro/v2/store"
 )
 
 // Basic implementation of token provider, backed by the store
