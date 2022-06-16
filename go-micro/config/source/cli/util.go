@@ -5,7 +5,7 @@ import (
 	"flag"
 	"strings"
 
-	"mjlee1983/go-micro/cli/v2"
+	"github.com/mjlee1983/go-micro/cli/v2"
 )
 
 func copyFlag(name string, ff *flag.Flag, set *flag.FlagSet) {

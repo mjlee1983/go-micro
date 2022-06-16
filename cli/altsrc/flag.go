@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"syscall"
 
-	"mjlee1983/go-micro/cli/v2"
+	"github.com/mjlee1983/go-micro/cli/v2"
 )
 
 // FlagInputSourceExtension is an extension interface of cli.Flag that

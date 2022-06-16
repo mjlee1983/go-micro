@@ -35,7 +35,7 @@ import (
 	cmucp "github.com/mjlee1983/go-micro/go-micro/v2/client/mucp"
 
 	// servers
-	"mjlee1983/go-micro/cli/v2"
+	"github.com/mjlee1983/go-micro/cli/v2"
 
 	sgrpc "github.com/mjlee1983/go-micro/go-micro/v2/server/grpc"
 	smucp "github.com/mjlee1983/go-micro/go-micro/v2/server/mucp"

@@ -5,7 +5,7 @@ import (
 	"strings"
 	"sync"
 
-	"mjlee1983/go-micro/cli/v2"
+	"github.com/mjlee1983/go-micro/cli/v2"
 
 	"github.com/mjlee1983/go-micro/go-micro/v2/agent/input"
 	tgbotapi "gopkg.in/telegram-bot-api.v4"

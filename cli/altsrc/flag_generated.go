@@ -5,7 +5,7 @@ package altsrc
 import (
 	"flag"
 
-	"mjlee1983/go-micro/cli/v2"
+	"github.com/mjlee1983/go-micro/cli/v2"
 )
 
 // BoolFlag is the flag type that wraps cli.BoolFlag to allow

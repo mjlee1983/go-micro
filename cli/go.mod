@@ -1,4 +1,4 @@
-module mjlee1983/go-micro/cli/v2
+modulegithub.com/mjlee1983/go-micro/cli/v2/v2
 
 go 1.11
 

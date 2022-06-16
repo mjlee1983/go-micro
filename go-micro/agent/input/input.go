@@ -2,7 +2,7 @@
 package input
 
 import (
-	"mjlee1983/go-micro/cli/v2"
+	"github.com/mjlee1983/go-micro/cli/v2"
 )
 
 type EventType string

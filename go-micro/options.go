@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"mjlee1983/go-micro/cli/v2"
+	"github.com/mjlee1983/go-micro/cli/v2"
 
 	"github.com/mjlee1983/go-micro/go-micro/v2/auth"
 	"github.com/mjlee1983/go-micro/go-microicro/go-microicro/go-micro/v2/broker"

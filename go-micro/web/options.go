@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"mjlee1983/go-micro/cli/v2"
+	"github.com/mjlee1983/go-micro/cli/v2"
 
 	"github.com/mjlee1983/go-micro/go-micro/v2"
 	"github.com/mjlee1983/go-micro/go-micro/v2/registry"
