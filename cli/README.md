@@ -25,7 +25,7 @@ the install instructions for Go](http://golang.org/doc/install.html).
 
 To install cli, simply run:
 ```
-$ go getgithub.com/mjlee1983/go-micro/cli/v2
+$ go get github.com/mjlee1983/go-micro/cli/v2
 ```
 
 Make sure your `PATH` includes the `$GOPATH/bin` directory so your commands can
@@ -48,7 +48,7 @@ Go Modules are strongly recommended when using this package. [See the go blog gu
 ### Using `v2` releases
 
 ```
-$ GO111MODULE=on go getgithub.com/mjlee1983/go-micro/cli/v2/v2
+$ GO111MODULE=on go get github.com/mjlee1983/go-micro/cli/v2/v2
 ```
 
 ```go
@@ -526,7 +526,7 @@ func main() {
 ### Using `v1` releases
 
 ```
-$ GO111MODULE=on go getgithub.com/mjlee1983/go-micro/cli/v2
+$ GO111MODULE=on go get github.com/mjlee1983/go-micro/cli/v2
 ```
 
 ```go
