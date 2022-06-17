@@ -9,9 +9,9 @@ import (
 	"time"
 
 	"github.com/mjlee1983/go-micro/go-micro/v2/logger"
-	"github.com/mjlee1983/go-micro/go-microicro/go-microicro/go-micro/v2/runtime/local/build"
-	"github.com/mjlee1983/go-micro/go-microicro/go-microicro/go-micro/v2/runtime/local/process"
-	proc "github.com/mjlee1983/go-micro/go-microicro/go-microicro/go-micro/v2/runtime/local/process/os"
+	"github.com/mjlee1983/go-micro/go-micro/v2/runtime/local/build"
+	"github.com/mjlee1983/go-micro/go-micro/v2/runtime/local/process"
+	proc "github.com/mjlee1983/go-micro/go-micro/v2/runtime/local/process/os"
 )
 
 type service struct {
