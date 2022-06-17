@@ -75,7 +75,7 @@ package main
 
 import (
   "os"
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {
@@ -96,7 +96,7 @@ import (
   "fmt"
   "os"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {
@@ -134,7 +134,7 @@ import (
   "fmt"
   "os"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {
@@ -197,7 +197,7 @@ import (
   "fmt"
   "os"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {
@@ -226,7 +226,7 @@ import (
   "fmt"
   "os"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {
@@ -270,7 +270,7 @@ import (
   "os"
   "fmt"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {
@@ -323,7 +323,7 @@ package main
 import (
   "os"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {
@@ -364,7 +364,7 @@ package main
 import (
   "os"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {
@@ -405,7 +405,7 @@ import (
   "os"
   "sort"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {
@@ -470,7 +470,7 @@ package main
 import (
   "os"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {
@@ -502,7 +502,7 @@ package main
 import (
   "os"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {
@@ -532,7 +532,7 @@ $ GO111MODULE=on go get github.com/mjlee1983/go-micro/cli/v2
 ```go
 ...
 import (
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 ...
 ```

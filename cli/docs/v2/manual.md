@@ -660,7 +660,7 @@ import (
   "os"
   "strings"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {

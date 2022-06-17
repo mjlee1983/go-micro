@@ -46,7 +46,7 @@ import (
   "log"
   "os"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {
@@ -71,7 +71,7 @@ import (
   "log"
   "os"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {
@@ -113,7 +113,7 @@ import (
   "log"
   "os"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {
@@ -180,7 +180,7 @@ import (
   "log"
   "os"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {
@@ -213,7 +213,7 @@ import (
   "log"
   "os"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {
@@ -261,7 +261,7 @@ import (
   "os"
   "fmt"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {
@@ -318,7 +318,7 @@ import (
   "log"
   "os"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {
@@ -363,7 +363,7 @@ import (
   "log"
   "os"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {
@@ -408,7 +408,7 @@ import (
   "os"
   "sort"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {
@@ -477,7 +477,7 @@ import (
   "log"
   "os"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {
@@ -513,7 +513,7 @@ import (
   "log"
   "os"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {
@@ -550,7 +550,7 @@ import (
   "log"
   "os"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {
@@ -622,8 +622,8 @@ import (
   "log"
   "os"
 
-  "mjlee1983/go-micro/cli"
-  "mjlee1983/go-micro/cli/altsrc"
+  "github.com/mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli/altsrc"
 )
 
 func main() {
@@ -674,7 +674,7 @@ import (
   "log"
   "os"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {
@@ -746,7 +746,7 @@ import (
   "log"
   "os"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {
@@ -800,7 +800,7 @@ import (
   "log"
   "os"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {
@@ -850,7 +850,7 @@ import (
   "log"
   "os"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {
@@ -914,7 +914,7 @@ import (
   "log"
   "os"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {
@@ -989,7 +989,7 @@ import (
   "log"
   "os"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {
@@ -1038,7 +1038,7 @@ import (
   "io"
   "os"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {
@@ -1099,7 +1099,7 @@ import (
   "log"
   "os"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {
@@ -1138,7 +1138,7 @@ import (
   "log"
   "os"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func main() {
@@ -1171,7 +1171,7 @@ import (
   "log"
   "os"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 var (
@@ -1213,7 +1213,7 @@ import (
   "os"
   "time"
 
-  "mjlee1983/go-micro/cli"
+  "github.com/mjlee1983/go-micro/cli"
 )
 
 func init() {
