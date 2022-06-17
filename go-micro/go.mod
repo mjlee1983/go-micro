@@ -46,7 +46,7 @@ require (
 	github.com/kr/pretty v0.1.0
 	github.com/lib/pq v1.3.0
 	github.com/lucas-clemente/quic-go v0.14.1
-	github.com/mjlee1983/go-micro/cli/v2 v2.1.2
+	github.com/mjlee1983/go-micro/cli/v2 v2.0.0-20220617010941-f9b5e964ce55 h1:+k9O1dqUDQce62kIDjLjYdSUkD+LjuqqLTTpCmtamDY=
 	github.com/miekg/dns v1.1.27
 	github.com/mitchellh/hashstructure v1.0.0
 	github.com/nats-io/nats-server/v2 v2.1.6 // indirect
